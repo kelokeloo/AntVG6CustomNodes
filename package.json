@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@antv/g6": "latest",
+    "d3": "7.8.3",
+    "lodash": "4.17.21"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "main": "index.js",
+  "name": "128qvl",
+  "description": null,
+  "version": "0.0.468",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
